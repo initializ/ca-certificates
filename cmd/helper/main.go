@@ -24,7 +24,7 @@ import (
 	"github.com/paketo-buildpacks/libpak/bard"
 	"github.com/paketo-buildpacks/libpak/sherpa"
 
-	"github.com/paketo-buildpacks/ca-certificates/v3/cacerts"
+	"github.com/initializ/ca-certificates/v3/cacerts"
 )
 
 func main() {
